@@ -8,7 +8,7 @@ PATH = "./data/data.csv"
 def main() -> None:
     data = loadData(PATH)
     app = Dash(external_stylesheets = [BOOTSTRAP])
-    app.title = "Health Care Dashboard"
+    app.title = "Dashboard"
     app.layout = create_layout(app,data)
     app.run()
 
