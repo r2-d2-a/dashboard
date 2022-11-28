@@ -1,0 +1,5 @@
+YEAR_DROPDOWN = "year-dropdown"
+GENDER_DROPDOWN = "gender_dropdown"
+SELECT_ALL_YEARS_BUTTON = "select-all-years-button"
+CAUSE_DROPDOWN = "cause_dropdown"
+BAR_CHART = "bar_chart"
